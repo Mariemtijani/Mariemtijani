@@ -1,6 +1,6 @@
 # Hi there, I'm Meriem Tijani! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](./your-image-name.png)
 
 ## About Me 🚀
 
