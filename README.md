@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a **Full-Stack Developer** who builds tools with purpose. I turn ideas into solid, scalable digital products by combining clean frontend experiences with reliable backend architecture. On the frontend, I work with **React** , **TypeScript**, and **Tailwind CSS** to craft fast, accessible, and intuitive interfaces. On the backend, I build secure, performant APIs using **Node.js**, **Express.js**, **FastAPI**, and **Django**, backed by **MySQL**, **MongoDb**, and **SQLite**.
+I'm a **Full-Stack Developer** who builds tools with purpose. I turn ideas into solid, scalable digital products by combining clean frontend experiences with reliable backend architecture. On the frontend, I work with **React** , **TypeScript**, and **Tailwind CSS** to craft fast, accessible, and intuitive interfaces. On the backend, I build secure, performant APIs using **Node.js**, **Express.js**, **FastAPI**, and **Django**, backed by **MySQL**, **MongoDb**.
 
 I'm currently focused on growing deeper in backend architecture and system design while building platforms that bring value — including **Hirfa** (for artisans) and **MindHeal** (for mental wellness).
 
@@ -35,10 +35,9 @@ I'm currently focused on growing deeper in backend architecture and system desig
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Databases:**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Dev Tools & Others:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -46,7 +45,7 @@ I'm currently focused on growing deeper in backend architecture and system desig
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
 
 ## 💡 What I Enjoy Working On
 
@@ -58,10 +57,8 @@ I'm currently focused on growing deeper in backend architecture and system desig
 
 ## 📫 Let’s Connect
 
-- 📩 **Email:** meriem.tijani@fl-x.com  
-- 🌐 **[Portfolio / Website](https://your-portfolio-link.com)**  
-- 💼 **[LinkedIn](https://linkedin.com/in/your-profile)**  
-- 🐦 **[Twitter](https://twitter.com/yourhandle)**
+- 📩 **Email:** mariemtijani60@gmail.com  
+- 💼 **[LinkedIn](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/meriem-tijani-21baa0203/)**  
 
 ---
 
