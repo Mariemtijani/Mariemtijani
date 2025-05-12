@@ -1,6 +1,6 @@
 # Hi there, I'm Meriem Tijani! 👋
 
-![Banner Image](/ChatGPT Image May 12, 2025, 09_07_14 PM.png)
+![Banner Image](./iimage.png)
 
 ## About Me 🚀
 
