@@ -5,7 +5,7 @@
 
 I'm a **Full-Stack Developer** who builds tools with purpose. I transform ideas into scalable, maintainable digital products by combining elegant frontend experiences with solid backend engineering.  
 
-On the frontend, I craft fast, accessible interfaces using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. On the backend, I build secure, high-performance APIs with **Node.js**, **Express.js**, **FastAPI**, and **Django**, powered by **MySQL** and **MongoDB**.
+On the frontend, I craft fast, accessible interfaces using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**. On the backend, I build secure, high-performance APIs with **Node.js**, **Express.js**, **Rest API**, and **Django**, powered by **MySQL** and **MongoDB**.
 
 I'm currently focused on deepening my skills in backend architecture and system design while building platforms that drive real-world impact — like **Hirfa** (for Moroccan artisans) and **MindHeal** (for mental health support).
 
