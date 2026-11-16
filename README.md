@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png" alt="Hi, my name is Meriem. Full-stack developer: I design beautiful interfaces and engineer what happens behind them." width="100%" />
+</p>
+
+
 # Hi there, I'm Meriem Tijani! 👋
 
 ## About Me 🚀
